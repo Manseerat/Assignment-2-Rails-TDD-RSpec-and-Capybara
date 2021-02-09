@@ -10,9 +10,9 @@ The primary objective of this assignment is to help you get acquainted with Rspe
 
       (a) Unit Testing the model.
  
-      (b) Integrating Testing the controller, eg. the user will see the flash notice after you enter the book information and click the submit button.
+      (b) Integrating Testing the controller, e.g. the user will see the flash notice after you enter the book information and click the submit button.
  
-      (c) Acceptance Testing to make sure user requirement has been implemented, eg. the user story: "As a user, I would like to add a new book".
+      (c) Acceptance Testing to make sure user requirement has been implemented, e.g. the user story: "As a user, I would like to add a new book".
  
       (d) Implementing a test double: stub, mock, or fake. For example: Implement a stub to mimic database access for a particular test.
  
