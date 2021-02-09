@@ -8,7 +8,7 @@ The primary objective of this assignment is to help you get acquainted with Rspe
 4. Again pull the changes into your **local test** branch.
 5. Working in the same, write a minimum of 4 relevant rspec-capybara tests (visiting, auto-filling form, navigating etc) for the book collection application.
 6. Run the rspec command to validate (Make sure you are on the root project folder)
-7. Add your changes to the staging area ```$ git add .```
+7. Add your changes to the local staging area ```$ git add .```
 8. Push the code to the **origin/test branch**.
 9. Merge these changes to your master branch (1. Raise a pull request from origin/test into origin/master 2. Merge the changes)
   
