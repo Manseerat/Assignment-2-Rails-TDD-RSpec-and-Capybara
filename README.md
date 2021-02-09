@@ -2,7 +2,7 @@
 The primary objective of this assignment is to help you get acquainted with Rspec and Capybara.
 
 # Assignment Instructions
-1. Clone this repostory ```$ git clone <url>``` into your **development branch**. Working in the same branch, add your book collection application that you designed in assignment 3.
+1. Clone this repostory ```$ git clone <url>``` into your **development branch**. Working in the same branch, add your book collection application that you designed in assignment 1.
 2. Add your changes to the staging area ```$ git add .```
 3. Push the code to the origin/development branch.
 4. Again pull the changes into your **local test** branch.
