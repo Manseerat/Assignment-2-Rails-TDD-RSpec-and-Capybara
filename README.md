@@ -7,6 +7,7 @@ The primary objective of this assignment is to help you get acquainted with Rspe
 3. Push the code to the origin/development branch.
 4. Again pull the changes into your **local test** branch.
 5. Working in the same, write a minimum of 4 relevant rspec-capybara tests (visiting, auto-filling form, navigating etc) for the book collection application:
+
  (a) Unit Testing the model.
  
  (b) Integrating Testing the controller, eg. the user will see the flash notice after you enter the book information and click the submit button.
